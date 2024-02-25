@@ -1,0 +1,2 @@
+﻿  09 const分配内存情况.cpp
+D:\StudyOrWork\CodeStudy\C++\C++核心编程资料\day1\4-源代码\01 C++书写HelloWorld\09 const分配内存情况\09 const分配内存情况.cpp(36,15): error C2737: “p”: 必须初始化 const 对象

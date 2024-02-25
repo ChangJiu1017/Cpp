@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "76c18594-d209-4a4d-842e-8b9a8cfa5dc7": {
+      "ProjectGuid": "76c18594-d209-4a4d-842e-8b9a8cfa5dc7",
+      "DisplayName": "01 静态成员",
+      "ColorIndex": 0
+    },
+    "b4ba3a61-b4de-4528-8fea-00c51011c6aa": {
+      "ProjectGuid": "b4ba3a61-b4de-4528-8fea-00c51011c6aa",
+      "DisplayName": "02 单例模式-主席类案例",
+      "ColorIndex": 1
+    },
+    "ee5678b1-0b99-43f0-947b-a99d13b94350": {
+      "ProjectGuid": "ee5678b1-0b99-43f0-947b-a99d13b94350",
+      "DisplayName": "03 单例模式-打印机案例",
+      "ColorIndex": 2
+    },
+    "d61b3d21-d57d-4c92-bafb-e9fd3878cacb": {
+      "ProjectGuid": "d61b3d21-d57d-4c92-bafb-e9fd3878cacb",
+      "DisplayName": "04 C++对象模型初探",
+      "ColorIndex": 3
+    },
+    "81820e91-02e7-4b28-9a1a-b05f95b2bae7": {
+      "ProjectGuid": "81820e91-02e7-4b28-9a1a-b05f95b2bae7",
+      "DisplayName": "05 this指针",
+      "ColorIndex": 4
+    },
+    "130076a5-a0d1-4f8e-a4aa-4c870aefde65": {
+      "ProjectGuid": "130076a5-a0d1-4f8e-a4aa-4c870aefde65",
+      "DisplayName": "06 空指针访问成员函数",
+      "ColorIndex": 5
+    },
+    "178cd9a7-dfed-4314-a76e-feaa28257330": {
+      "ProjectGuid": "178cd9a7-dfed-4314-a76e-feaa28257330",
+      "DisplayName": "07 常函数与常对象",
+      "ColorIndex": 6
+    },
+    "d1fd1a0d-f3d7-455c-b954-4aa56d4cecd4": {
+      "ProjectGuid": "d1fd1a0d-f3d7-455c-b954-4aa56d4cecd4",
+      "DisplayName": "08 全局函数做友元函数",
+      "ColorIndex": 7
+    },
+    "12647600-3261-4470-970c-48f8d76cd211": {
+      "ProjectGuid": "12647600-3261-4470-970c-48f8d76cd211",
+      "DisplayName": "09 类作为友元类",
+      "ColorIndex": 8
+    },
+    "f22ec32a-f428-48c0-80b8-a4d1c1a3d880": {
+      "ProjectGuid": "f22ec32a-f428-48c0-80b8-a4d1c1a3d880",
+      "DisplayName": "10 成员函数作为友元函数",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

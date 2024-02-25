@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "063f9ca9-fe0b-4e92-aabc-b78d054df52a": {
+      "ProjectGuid": "063f9ca9-fe0b-4e92-aabc-b78d054df52a",
+      "DisplayName": "01 C++书写HelloWorld",
+      "ColorIndex": 0
+    },
+    "186650fc-bc4b-476f-9e6a-f3428642d064": {
+      "ProjectGuid": "186650fc-bc4b-476f-9e6a-f3428642d064",
+      "DisplayName": "05 C++对C语言增强_C语言",
+      "ColorIndex": 1
+    },
+    "c3f3a00f-5205-4d7a-affe-079a83778629": {
+      "ProjectGuid": "c3f3a00f-5205-4d7a-affe-079a83778629",
+      "DisplayName": "06 C++对C语言增强_C++语言",
+      "ColorIndex": 2
+    },
+    "25e9f829-6eec-4454-a9ad-e333e0e72af3": {
+      "ProjectGuid": "25e9f829-6eec-4454-a9ad-e333e0e72af3",
+      "DisplayName": "08 const在C++语言下默认是内部链接属性",
+      "ColorIndex": 3
+    },
+    "149b89cd-ff6d-4fbe-a0a6-cf934153e97b": {
+      "ProjectGuid": "149b89cd-ff6d-4fbe-a0a6-cf934153e97b",
+      "DisplayName": "07 const在C语言下默认是外部链接属性",
+      "ColorIndex": 4
+    },
+    "ee0e9beb-0cb6-4014-acab-98f78ac4b45b": {
+      "ProjectGuid": "ee0e9beb-0cb6-4014-acab-98f78ac4b45b",
+      "DisplayName": "09 const分配内存情况",
+      "ColorIndex": 5
+    },
+    "e1fe541b-956a-4bd9-a1bf-5b27b8054283": {
+      "ProjectGuid": "e1fe541b-956a-4bd9-a1bf-5b27b8054283",
+      "DisplayName": "02 双冒号作用域运算符",
+      "ColorIndex": 6
+    },
+    "69248bbb-d466-4564-8c09-0eee499471f1": {
+      "ProjectGuid": "69248bbb-d466-4564-8c09-0eee499471f1",
+      "DisplayName": "03 namespace命名空间",
+      "ColorIndex": 7
+    },
+    "62371558-8961-47cb-b6a0-83f6ccc543bf": {
+      "ProjectGuid": "62371558-8961-47cb-b6a0-83f6ccc543bf",
+      "DisplayName": "04 using声明和using编译指令",
+      "ColorIndex": 8
+    },
+    "5f08601d-b0d6-4dd5-8826-1e056bfd3731": {
+      "ProjectGuid": "5f08601d-b0d6-4dd5-8826-1e056bfd3731",
+      "DisplayName": "10 引用的基本语法",
+      "ColorIndex": 9
+    },
+    "d13337a2-b471-4691-b1fb-9b6679a2e321": {
+      "ProjectGuid": "d13337a2-b471-4691-b1fb-9b6679a2e321",
+      "DisplayName": "11 参数的传递方式",
+      "ColorIndex": 10
+    },
+    "91cc7b53-559d-45a9-83e3-f6cc8841939d": {
+      "ProjectGuid": "91cc7b53-559d-45a9-83e3-f6cc8841939d",
+      "DisplayName": "12 指针的引用",
+      "ColorIndex": 11
+    },
+    "8b6c9004-8555-4448-b0be-490a2e367841": {
+      "ProjectGuid": "8b6c9004-8555-4448-b0be-490a2e367841",
+      "DisplayName": "13 常量的引用",
+      "ColorIndex": 12
+    }
+  },
+  "NextColorIndex": 13
+}

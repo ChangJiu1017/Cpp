@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9c7d79c7-96ac-42e2-95d4-84ea586c6c0f": {
+      "ProjectGuid": "9c7d79c7-96ac-42e2-95d4-84ea586c6c0f",
+      "DisplayName": "01 设计一个类，求圆的周长",
+      "ColorIndex": 0
+    },
+    "585fed4f-3b36-407e-9b48-b4d26a043b9a": {
+      "ProjectGuid": "585fed4f-3b36-407e-9b48-b4d26a043b9a",
+      "DisplayName": "02 内联函数---宏函数的缺陷",
+      "ColorIndex": 1
+    },
+    "0230e171-f5aa-423b-a80b-ddf52af8d1b3": {
+      "ProjectGuid": "0230e171-f5aa-423b-a80b-ddf52af8d1b3",
+      "DisplayName": "03 函数的默认参数以及占位参数",
+      "ColorIndex": 2
+    },
+    "0ee43016-810e-43b2-9479-cb528a5a4584": {
+      "ProjectGuid": "0ee43016-810e-43b2-9479-cb528a5a4584",
+      "DisplayName": "04 函数重载",
+      "ColorIndex": 3
+    },
+    "cbe44a12-9372-47c2-86af-49db15ea34cb": {
+      "ProjectGuid": "cbe44a12-9372-47c2-86af-49db15ea34cb",
+      "DisplayName": "05 externC浅析",
+      "ColorIndex": 4
+    },
+    "e1918997-2406-4ae4-9a03-1c0ba3261659": {
+      "ProjectGuid": "e1918997-2406-4ae4-9a03-1c0ba3261659",
+      "DisplayName": "06 类的封装_C语言",
+      "ColorIndex": 5
+    },
+    "fbe30fc8-6bc4-4be9-b5ff-b8d2adc8f773": {
+      "ProjectGuid": "fbe30fc8-6bc4-4be9-b5ff-b8d2adc8f773",
+      "DisplayName": "07 类的封装_C++语言",
+      "ColorIndex": 6
+    },
+    "dd8f6314-a0a6-455d-9469-616b7afa4185": {
+      "ProjectGuid": "dd8f6314-a0a6-455d-9469-616b7afa4185",
+      "DisplayName": "08 尽量将成员属性设置为私有",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

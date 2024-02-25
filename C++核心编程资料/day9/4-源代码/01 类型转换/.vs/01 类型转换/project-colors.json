@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "85b8e193-3838-4865-9e06-8dc597439b86": {
+      "ProjectGuid": "85b8e193-3838-4865-9e06-8dc597439b86",
+      "DisplayName": "07 标准输入流",
+      "ColorIndex": 0
+    },
+    "904cccb8-4b5f-4ad7-88d5-e5981a689306": {
+      "ProjectGuid": "904cccb8-4b5f-4ad7-88d5-e5981a689306",
+      "DisplayName": "08 标准输出流",
+      "ColorIndex": 1
+    },
+    "2eaabb73-1240-41c1-a444-20ecb7803d60": {
+      "ProjectGuid": "2eaabb73-1240-41c1-a444-20ecb7803d60",
+      "DisplayName": "09 C++对文件读写操作",
+      "ColorIndex": 2
+    },
+    "fb13c2c5-841c-4da7-8fe5-c9958d38a85e": {
+      "ProjectGuid": "fb13c2c5-841c-4da7-8fe5-c9958d38a85e",
+      "DisplayName": "01 类型转换",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

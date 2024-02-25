@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "17059496-0b45-4a47-b3b3-ceb24f88357a": {
+      "ProjectGuid": "17059496-0b45-4a47-b3b3-ceb24f88357a",
+      "DisplayName": "01 数组类封装",
+      "ColorIndex": 0
+    },
+    "01991a7a-0112-4d39-a940-ce0f0d3aaa20": {
+      "ProjectGuid": "01991a7a-0112-4d39-a940-ce0f0d3aaa20",
+      "DisplayName": "02 加号运算符重载",
+      "ColorIndex": 1
+    },
+    "ba775881-ec09-4dae-afe6-ff768c2e5e6c": {
+      "ProjectGuid": "ba775881-ec09-4dae-afe6-ff768c2e5e6c",
+      "DisplayName": "03 左移运算符重载",
+      "ColorIndex": 2
+    },
+    "0aa83ad6-7887-4eff-8ee6-52c94a31523b": {
+      "ProjectGuid": "0aa83ad6-7887-4eff-8ee6-52c94a31523b",
+      "DisplayName": "04 递增运算符重载",
+      "ColorIndex": 3
+    },
+    "996231e6-6a25-4d42-8779-97799b9747e8": {
+      "ProjectGuid": "996231e6-6a25-4d42-8779-97799b9747e8",
+      "DisplayName": "05 指针运算符重载",
+      "ColorIndex": 4
+    },
+    "97b64720-addd-4eb1-9d78-e9b5fecb8039": {
+      "ProjectGuid": "97b64720-addd-4eb1-9d78-e9b5fecb8039",
+      "DisplayName": "06 赋值运算符重载",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}

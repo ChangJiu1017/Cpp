@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "02301e76-5b1f-4328-93ac-2273ede6eca3": {
+      "ProjectGuid": "02301e76-5b1f-4328-93ac-2273ede6eca3",
+      "DisplayName": "01 函数模板基本语法",
+      "ColorIndex": 0
+    },
+    "e2c1d3a8-29ea-4fae-9911-3c5bc83a846c": {
+      "ProjectGuid": "e2c1d3a8-29ea-4fae-9911-3c5bc83a846c",
+      "DisplayName": "02 函数模板实现int和char的数组排序",
+      "ColorIndex": 1
+    },
+    "5196b70f-530f-45cb-96e8-836e81611f35": {
+      "ProjectGuid": "5196b70f-530f-45cb-96e8-836e81611f35",
+      "DisplayName": "03 普通函数和函数模板的区别以及调用规则",
+      "ColorIndex": 2
+    },
+    "cbb584b6-d987-4b8d-b758-b675f3acfe35": {
+      "ProjectGuid": "cbb584b6-d987-4b8d-b758-b675f3acfe35",
+      "DisplayName": "04 模板的局限性的解决-具体化",
+      "ColorIndex": 3
+    },
+    "f6a02659-5b38-40f6-b917-c5c044f1a65d": {
+      "ProjectGuid": "f6a02659-5b38-40f6-b917-c5c044f1a65d",
+      "DisplayName": "05 类模板基本语法",
+      "ColorIndex": 4
+    },
+    "4bfe04a4-f581-4236-b99d-f5e6fde87a92": {
+      "ProjectGuid": "4bfe04a4-f581-4236-b99d-f5e6fde87a92",
+      "DisplayName": "06 类模板中成员函数创建时机",
+      "ColorIndex": 5
+    },
+    "bc8cd6e5-0640-4935-9bd2-ab40cfba4dd1": {
+      "ProjectGuid": "bc8cd6e5-0640-4935-9bd2-ab40cfba4dd1",
+      "DisplayName": "07 类模板作为函数参数",
+      "ColorIndex": 6
+    },
+    "a566f997-15b1-456c-97ef-85b9b1e7c67b": {
+      "ProjectGuid": "a566f997-15b1-456c-97ef-85b9b1e7c67b",
+      "DisplayName": "08 类模板碰到继承的问题以及解决",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

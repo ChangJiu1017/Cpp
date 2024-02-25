@@ -1,0 +1,4 @@
+﻿  05 C++对C语言增强_C语言.c
+D:\StudyOrWork\CodeStudy\C++\C++核心编程资料\day1\4-源代码\01 C++书写HelloWorld\05 C++对C语言增强_C语言\05 C++对C语言增强_C语言.c(72,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\StudyOrWork\CodeStudy\C++\C++核心编程资料\day1\4-源代码\01 C++书写HelloWorld\05 C++对C语言增强_C语言\05 C++对C语言增强_C语言.c(14): warning C4716: “getRectS”: 必须返回一个值
+  05 C++对C语言增强_C语言.vcxproj -> D:\StudyOrWork\CodeStudy\C++\C++核心编程资料\day1\4-源代码\01 C++书写HelloWorld\Debug\05 C++对C语言增强_C语言.exe

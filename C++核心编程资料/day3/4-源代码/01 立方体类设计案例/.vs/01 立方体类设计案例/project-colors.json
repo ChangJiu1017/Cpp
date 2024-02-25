@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0e738f00-ac78-4d68-8c55-e7829cf518e4": {
+      "ProjectGuid": "0e738f00-ac78-4d68-8c55-e7829cf518e4",
+      "DisplayName": "01 立方体类设计案例",
+      "ColorIndex": 0
+    },
+    "ef96d02c-8465-4d7a-8adb-084e6eabed59": {
+      "ProjectGuid": "ef96d02c-8465-4d7a-8adb-084e6eabed59",
+      "DisplayName": "02 点和圆关系案例",
+      "ColorIndex": 1
+    },
+    "06544e05-07dd-467c-b7bd-9d414956ab85": {
+      "ProjectGuid": "06544e05-07dd-467c-b7bd-9d414956ab85",
+      "DisplayName": "03 构造函数和析构函数",
+      "ColorIndex": 2
+    },
+    "571b78e4-3c83-45e7-a90e-848f0f67f8d6": {
+      "ProjectGuid": "571b78e4-3c83-45e7-a90e-848f0f67f8d6",
+      "DisplayName": "04 构造函数的分类以及调用",
+      "ColorIndex": 3
+    },
+    "4a2214e3-57b4-424e-8c1b-de8c23765f12": {
+      "ProjectGuid": "4a2214e3-57b4-424e-8c1b-de8c23765f12",
+      "DisplayName": "05 拷贝构造函数调用时机",
+      "ColorIndex": 4
+    },
+    "5574994e-0bad-49f4-9bf0-6a519aea6975": {
+      "ProjectGuid": "5574994e-0bad-49f4-9bf0-6a519aea6975",
+      "DisplayName": "06 构造函数的调用规则",
+      "ColorIndex": 5
+    },
+    "3694f27a-e0d6-4be0-bb97-c2594235ff4f": {
+      "ProjectGuid": "3694f27a-e0d6-4be0-bb97-c2594235ff4f",
+      "DisplayName": "07 深拷贝与浅拷贝",
+      "ColorIndex": 6
+    },
+    "80bd5a37-a263-481d-9ab9-0194ecfbad90": {
+      "ProjectGuid": "80bd5a37-a263-481d-9ab9-0194ecfbad90",
+      "DisplayName": "08 初始化列表",
+      "ColorIndex": 7
+    },
+    "3c2aff42-4e94-4eef-b425-deb2942ec540": {
+      "ProjectGuid": "3c2aff42-4e94-4eef-b425-deb2942ec540",
+      "DisplayName": "09 类对象作为类成员",
+      "ColorIndex": 8
+    },
+    "a387637a-39bf-4f67-ad70-e4a97e289c05": {
+      "ProjectGuid": "a387637a-39bf-4f67-ad70-e4a97e289c05",
+      "DisplayName": "10 explicit关键字",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

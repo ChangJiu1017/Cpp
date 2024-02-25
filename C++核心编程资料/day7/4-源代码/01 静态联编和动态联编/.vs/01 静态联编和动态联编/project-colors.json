@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1890b644-5fb3-4cc1-b3a2-e0236a6dc941": {
+      "ProjectGuid": "1890b644-5fb3-4cc1-b3a2-e0236a6dc941",
+      "DisplayName": "01 静态联编和动态联编",
+      "ColorIndex": 0
+    },
+    "b0660392-f213-466e-8a99-423cdca55eba": {
+      "ProjectGuid": "b0660392-f213-466e-8a99-423cdca55eba",
+      "DisplayName": "02 多态案例-计算器",
+      "ColorIndex": 1
+    },
+    "22c03bc5-f554-4bc9-a0f1-13d80fc631d0": {
+      "ProjectGuid": "22c03bc5-f554-4bc9-a0f1-13d80fc631d0",
+      "DisplayName": "03 虚析构和纯虚析构",
+      "ColorIndex": 2
+    },
+    "8e7f4ac8-e65d-465f-a2f2-6e4635c812cc": {
+      "ProjectGuid": "8e7f4ac8-e65d-465f-a2f2-6e4635c812cc",
+      "DisplayName": "04 多态案例二-电脑组装",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
